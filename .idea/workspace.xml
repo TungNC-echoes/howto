@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2959cbba-0515-414c-a7c6-aa255cd1e9fd" name="Default Changelist" comment="" />
+    <list default="true" id="2959cbba-0515-414c-a7c6-aa255cd1e9fd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/css/Menus/tabs.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Menus/tabs.css" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/Menus/tabs.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="421">
+              <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -46,6 +48,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -62,9 +67,16 @@
         <option value="$PROJECT_DIR$/css/Menus/animated_icon.css" />
         <option value="$PROJECT_DIR$/js/Menus/accordion.js" />
         <option value="$PROJECT_DIR$/css/Menus/accordion.css" />
-        <option value="$PROJECT_DIR$/css/Menus/tabs.css" />
         <option value="$PROJECT_DIR$/js/Menus/tabs.js" />
         <option value="$PROJECT_DIR$/Menus/tabs" />
+        <option value="$PROJECT_DIR$/css/Menus/tabs.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
       </list>
     </option>
   </component>
@@ -73,6 +85,7 @@
     <option name="width" value="1600" />
     <option name="height" value="902" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -86,33 +99,6 @@
               <item name="Howto" type="b2602c69:ProjectViewProjectNode" />
               <item name="Howto" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Howto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Howto" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Howto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Howto" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="Menus" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Howto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Howto" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Howto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Howto" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="Menus" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Howto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Howto" type="462c0819:PsiDirectoryNode" />
-              <item name="Menus" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -121,6 +107,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/css/Menus" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -156,18 +143,18 @@
       <updated>1558337403825</updated>
       <workItem from="1558337405165" duration="473000" />
       <workItem from="1558337885803" duration="7867000" />
-      <workItem from="1558407455175" duration="1989000" />
+      <workItem from="1558407455175" duration="3014000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10329000" />
+    <option name="totallyTimeSpent" value="11354000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-2" width="1600" height="902" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25611326" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25611326" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -180,7 +167,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32988358" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -286,10 +273,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/Menus/tabs.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="421">
+          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
         </state>
       </provider>
     </entry>
